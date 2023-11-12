@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+
+nav {
+    color: red;
+    width: 50%;
+    display: flex;
+    background-color: rgba(0,0,0,.5);
+    justify-content: space-between;
+    transform: translate(50%);
+}
